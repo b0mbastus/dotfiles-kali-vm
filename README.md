@@ -1,1 +1,1 @@
-# dotfiles-kali-vm
+# Dotfiles for Kali-VM
